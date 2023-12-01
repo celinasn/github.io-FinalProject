@@ -1,0 +1,49 @@
+
+body {
+    background-color: green;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    margin-left: 8%;
+    padding: initial;
+}
+
+.picture {
+    border: 3px solid blue;
+    padding: 10px;
+    margin:10px;
+}
+
+
+table {
+    width: 600px;
+    background-color: lightgreen;
+    border-collapse: collapse;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    vertical-align: middle;
+    padding: 10px;
+    
+}
+
+.caption {
+    font-size: 24px;
+    color: #fff; 
+    background-color: green; 
+    padding: 10px;
+    margin: auto;
+    margin-left: 14%;
+}
+
